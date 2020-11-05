@@ -44866,7 +44866,7 @@ $C:"$2",
 $R:2}
 F.Uq.prototype={
 $0:function(){var t=this.a,s=J.a0(t.f.a,"server")
-t.e=s==null?"demo.cloudwebrtc.com":s},
+t.e=s==null?"coturn.damphat.com":s},
 $S:0}
 F.UF.prototype={
 $1:function(a){return this.a}}
